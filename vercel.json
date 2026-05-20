@@ -3,7 +3,8 @@
   "outputDirectory": "frontend/dist",
   "installCommand": "cd frontend && npm install",
   "env": {
-    "VITE_API_URL": "@ruralcare_api_url"
+    "VITE_API_URL": "@ruralcare_api_url",
+    "GROQ_API_KEY": "@groq_api_key"
   },
   "github": {
     "enabled": true,
