@@ -5,7 +5,6 @@
   "env": {
     "VITE_API_URL": "@ruralcare_api_url"
   },
-  "envPrefix": "VITE_",
   "github": {
     "enabled": true,
     "autoAlias": true
